@@ -1,4 +1,4 @@
-# PythonforDS
+# Python for Data Science & Data Analytics
 
 NumPy: https://www.youtube.com/watch?v=UrckZng5Ag8
 
