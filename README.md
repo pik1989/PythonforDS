@@ -1,3 +1,7 @@
+# Python Basics
+
+🔴 Learn Python from basics to intermediate level using this repository
+
 # Python for Data Science & Data Analytics
 
 NumPy: https://www.youtube.com/watch?v=UrckZng5Ag8
